@@ -1,0 +1,213 @@
+{
+  "order": [
+    "hero",
+    "welcome",
+    "darshan",
+    "calendar",
+    "sunday",
+    "scripture",
+    "campaign",
+    "moments",
+    "festivals",
+    "programs",
+    "film",
+    "prabhupada",
+    "serve",
+    "chant",
+    "visit"
+  ],
+  "sections": {
+    "hero": {
+      "visible": true,
+      "welcome": "Welcome to",
+      "title": "Sri Sri Radha Madhava Mandir",
+      "subtitle": "ISKCON Chandigarh · Hare Krishna Dham, Sector 36-B · Since 1978",
+      "showReel": true,
+      "showNext": true,
+      "medallions": [
+        {
+          "label": "Live Darshan",
+          "href": "/live",
+          "icon": "diya"
+        },
+        {
+          "label": "Vaishnava Calendar",
+          "href": "/calendar",
+          "icon": "tulasi"
+        },
+        {
+          "label": "Offer a Seva",
+          "href": "/donate",
+          "icon": "kalash"
+        },
+        {
+          "label": "Visit Temple",
+          "href": "/visit",
+          "icon": "temple"
+        }
+      ]
+    },
+    "welcome": {
+      "visible": true,
+      "eyebrow": "Welcome to Hare Krishna Dham",
+      "title": "A home for Krishna in the City Beautiful, *open to all*",
+      "paragraphs": [
+        "On Dakshin Marg in Sector 36-B, Sri Sri Radha Madhava have been worshipped since the late 1970s. Six aartis a day, kirtan every evening, the Bhagavad-gita every morning, and prasadam for everyone who comes.",
+        "We are part of the International Society for Krishna Consciousness, founded by Srila Prabhupada in 1966."
+      ],
+      "primaryCta": {
+        "label": "Our temple",
+        "href": "/about"
+      },
+      "secondaryCta": {
+        "label": "Srila Prabhupada",
+        "href": "/srila-prabhupada"
+      },
+      "icon": "gaura-nitai"
+    },
+    "darshan": {
+      "visible": true,
+      "eyebrow": "Darshan & aarti",
+      "title": "A day with Sri Sri Radha Madhava",
+      "cta": {
+        "label": "Timings & visitor guide",
+        "href": "/visit"
+      },
+      "showDayArc": true,
+      "aartis": [
+        {
+          "slot": "aarti.mangala",
+          "label": "Mangala Aarti",
+          "time": "04:30"
+        },
+        {
+          "slot": "aarti.shringar",
+          "label": "Shringar Darshan",
+          "time": "07:15"
+        },
+        {
+          "slot": "aarti.rajbhoga",
+          "label": "Raj Bhoga Aarti",
+          "time": "12:00"
+        },
+        {
+          "slot": "aarti.dhoop",
+          "label": "Dhoop Aarti",
+          "time": "16:15"
+        },
+        {
+          "slot": "aarti.sandhya",
+          "label": "Sandhya Aarti",
+          "time": "19:00"
+        }
+      ]
+    },
+    "calendar": {
+      "visible": true,
+      "eyebrow": "Vaishnava calendar",
+      "title": "Coming up at the temple",
+      "ekadashiCta": "All Ekadashis"
+    },
+    "sunday": {
+      "visible": true
+    },
+    "scripture": {
+      "visible": true,
+      "sanskrit": "पत्रं पुष्पं फलं तोयं यो मे भक्त्या प्रयच्छति ।\nतदहं भक्त्युपहृतमश्नामि प्रयतात्मनः ॥",
+      "quote": "If one offers Me with love and devotion a leaf, a flower, a fruit or water, I will accept it.",
+      "source": "Bhagavad-gita 9.26",
+      "icon": "lotus"
+    },
+    "campaign": {
+      "visible": true,
+      "campaign": "",
+      "eyebrow": "Campaign",
+      "ctaLabel": "Join the campaign",
+      "familiesLabel": "families"
+    },
+    "moments": {
+      "visible": true,
+      "eyebrow": "From the temple",
+      "title": "Life at Hare Krishna Dham",
+      "link": {
+        "label": "Follow @iskconchd",
+        "href": "https://www.instagram.com/iskconchd"
+      }
+    },
+    "festivals": {
+      "visible": true,
+      "eyebrow": "The year ahead",
+      "title": "Festivals we celebrate",
+      "cta": {
+        "label": "All festival stories",
+        "href": "/festivals"
+      },
+      "count": 7
+    },
+    "programs": {
+      "visible": true,
+      "eyebrow": "Programs",
+      "title": "Something for every age, every day of the week",
+      "count": 6
+    },
+    "film": {
+      "visible": true,
+      "eyebrow": "Film",
+      "title": "A morning at the temple",
+      "text": "From the conch at 4:30 to the Bhagavatam class, in three minutes."
+    },
+    "prabhupada": {
+      "visible": true,
+      "eyebrow": "Founder-Acharya",
+      "title": "His Divine Grace A.C. Bhaktivedanta Swami Prabhupada",
+      "quote": "Chant Hare Krishna and be happy.",
+      "text": "At sixty-nine he crossed the Atlantic on a cargo ship with a trunk of books and forty rupees. In twelve years he founded ISKCON, opened more than a hundred temples and gave the world more than seventy volumes of Vedic wisdom.",
+      "primaryCta": {
+        "label": "His life & books",
+        "href": "/srila-prabhupada"
+      },
+      "secondaryCta": {
+        "label": "Sponsor a Gita",
+        "href": "/donate/gita-daan-2026"
+      }
+    },
+    "serve": {
+      "visible": true,
+      "eyebrow": "Ways to serve",
+      "title": "Offer something to the Lord",
+      "text": "Donations to ISKCON are eligible for 80G tax exemption.",
+      "cta": {
+        "label": "All sevas & campaigns",
+        "href": "/donate"
+      },
+      "campaignCount": 3,
+      "sevaCount": 8
+    },
+    "chant": {
+      "visible": true,
+      "mantra": "हरे कृष्ण हरे कृष्ण कृष्ण कृष्ण हरे हरे · हरे राम हरे राम राम राम हरे हरे",
+      "title": "Chant one round of 108 with us",
+      "text": "A digital japa mala that keeps your count and daily streak, privately, on your device.",
+      "cta": {
+        "label": "Begin chanting",
+        "href": "/japa"
+      },
+      "icon": "kartal"
+    },
+    "visit": {
+      "visible": true,
+      "eyebrow": "Visit",
+      "title": "Find us on Dakshin Marg",
+      "morning": "4:30 – 5:00 · 7:15 – 8:00\n8:30 – 11:30 · 12:00 – 12:30",
+      "evening": "4:15 – 6:30 pm\n7:00 – 8:30 pm",
+      "cta": {
+        "label": "Get directions",
+        "href": ""
+      },
+      "secondaryCta": {
+        "label": "Visitor guide",
+        "href": "/visit"
+      }
+    }
+  }
+}

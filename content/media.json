@@ -1,0 +1,608 @@
+{
+  "slots": {
+    "home.hero.deity": {
+      "type": "image",
+      "src": "",
+      "alt": "Sri Sri Radha Madhava on the altar",
+      "label": "Deity darshan · Sri Sri Radha Madhava",
+      "tone": "altar"
+    },
+    "home.hero.kirtan": {
+      "type": "video",
+      "src": "",
+      "poster": "",
+      "alt": "Evening kirtan in the temple hall",
+      "label": "Sandhya kirtan",
+      "tone": "saffron",
+      "duration": "0:24"
+    },
+    "home.hero.temple": {
+      "type": "image",
+      "src": "",
+      "alt": "Hare Krishna Dham at dusk",
+      "label": "Temple at dusk",
+      "tone": "dusk"
+    },
+    "home.welcome.main": {
+      "type": "image",
+      "src": "",
+      "alt": "Devotees offering aarti",
+      "label": "Aarti before the altar",
+      "tone": "altar"
+    },
+    "home.welcome.second": {
+      "type": "image",
+      "src": "",
+      "alt": "Temple hall during kirtan",
+      "label": "Temple hall",
+      "tone": "marble"
+    },
+    "home.welcome.third": {
+      "type": "image",
+      "src": "",
+      "alt": "Prasadam being served",
+      "label": "Sunday feast",
+      "tone": "saffron"
+    },
+    "aarti.mangala": {
+      "type": "image",
+      "src": "",
+      "alt": "Mangala Aarti",
+      "label": "Mangala Aarti",
+      "tone": "night"
+    },
+    "aarti.shringar": {
+      "type": "image",
+      "src": "",
+      "alt": "Shringar darshan",
+      "label": "Shringar Darshan",
+      "tone": "gold"
+    },
+    "aarti.rajbhoga": {
+      "type": "image",
+      "src": "",
+      "alt": "Raj Bhoga Aarti",
+      "label": "Raj Bhoga Aarti",
+      "tone": "saffron"
+    },
+    "aarti.dhoop": {
+      "type": "image",
+      "src": "",
+      "alt": "Dhoop Aarti",
+      "label": "Dhoop Aarti",
+      "tone": "rose"
+    },
+    "aarti.sandhya": {
+      "type": "image",
+      "src": "",
+      "alt": "Sandhya Aarti",
+      "label": "Sandhya Aarti",
+      "tone": "dusk"
+    },
+    "home.film": {
+      "type": "video",
+      "src": "",
+      "poster": "",
+      "youtube": "",
+      "alt": "A morning at Hare Krishna Dham",
+      "label": "Film · A morning at the temple",
+      "tone": "dusk",
+      "duration": "3:12"
+    },
+    "home.campaign": {
+      "type": "image",
+      "src": "",
+      "alt": "Lamps offered in Kartika",
+      "label": "Deepadaan · Kartika",
+      "tone": "night"
+    },
+    "home.prabhupada": {
+      "type": "image",
+      "src": "",
+      "alt": "Srila Prabhupada",
+      "label": "Srila Prabhupada",
+      "tone": "marble"
+    },
+    "festival.janmashtami": {
+      "type": "image",
+      "src": "",
+      "alt": "Janmashtami",
+      "label": "Janmashtami",
+      "tone": "night"
+    },
+    "festival.gaura-purnima": {
+      "type": "image",
+      "src": "",
+      "alt": "Gaura Purnima",
+      "label": "Gaura Purnima",
+      "tone": "gold"
+    },
+    "festival.ratha-yatra": {
+      "type": "image",
+      "src": "",
+      "alt": "Ratha Yatra in Chandigarh",
+      "label": "Ratha Yatra",
+      "tone": "saffron"
+    },
+    "festival.radhashtami": {
+      "type": "image",
+      "src": "",
+      "alt": "Radhashtami",
+      "label": "Radhashtami",
+      "tone": "rose"
+    },
+    "festival.kartika-damodara": {
+      "type": "image",
+      "src": "",
+      "alt": "Kartika lamp offering",
+      "label": "Damodara month",
+      "tone": "night"
+    },
+    "festival.diwali-govardhana": {
+      "type": "image",
+      "src": "",
+      "alt": "Govardhana Puja",
+      "label": "Govardhana Puja",
+      "tone": "saffron"
+    },
+    "festival.gita-jayanti": {
+      "type": "image",
+      "src": "",
+      "alt": "Gita Jayanti",
+      "label": "Gita Jayanti",
+      "tone": "marble"
+    },
+    "festival.nrisimha-chaturdashi": {
+      "type": "image",
+      "src": "",
+      "alt": "Nrisimha Chaturdashi",
+      "label": "Nrisimha Chaturdashi",
+      "tone": "dusk"
+    },
+    "festival.rama-navami": {
+      "type": "image",
+      "src": "",
+      "alt": "Rama Navami",
+      "label": "Rama Navami",
+      "tone": "gold"
+    },
+    "festival.vyasa-puja": {
+      "type": "image",
+      "src": "",
+      "alt": "Vyasa Puja",
+      "label": "Vyasa Puja",
+      "tone": "marble"
+    },
+    "festival.ekadashi": {
+      "type": "image",
+      "src": "",
+      "alt": "Tulasi",
+      "label": "Ekadashi",
+      "tone": "garden"
+    },
+    "program.food-for-life": {
+      "type": "image",
+      "src": "",
+      "alt": "Food for Life distribution",
+      "label": "Food for Life",
+      "tone": "saffron"
+    },
+    "program.youth": {
+      "type": "image",
+      "src": "",
+      "alt": "Youth forum",
+      "label": "Youth Forum",
+      "tone": "dusk"
+    },
+    "program.bhakti-yoga": {
+      "type": "image",
+      "src": "",
+      "alt": "Bhakti yoga class",
+      "label": "Bhakti Yoga class",
+      "tone": "marble"
+    },
+    "program.kids": {
+      "type": "image",
+      "src": "",
+      "alt": "Children at summer camp",
+      "label": "Summer camp",
+      "tone": "garden"
+    },
+    "program.kirtan-at-home": {
+      "type": "image",
+      "src": "",
+      "alt": "Kirtan at a devotee's home",
+      "label": "Home kirtan",
+      "tone": "rose"
+    },
+    "program.counselling": {
+      "type": "image",
+      "src": "",
+      "alt": "Counselling",
+      "label": "Counselling",
+      "tone": "marble"
+    },
+    "program.seminars": {
+      "type": "image",
+      "src": "",
+      "alt": "Seminar at a college",
+      "label": "Seminars",
+      "tone": "dusk"
+    },
+    "program.book-distribution": {
+      "type": "image",
+      "src": "",
+      "alt": "Book distribution",
+      "label": "Book distribution",
+      "tone": "gold"
+    },
+    "about.exterior": {
+      "type": "image",
+      "src": "",
+      "alt": "Hare Krishna Dham, Sector 36-B",
+      "label": "Temple exterior",
+      "tone": "dusk"
+    },
+    "about.deities": {
+      "type": "image",
+      "src": "",
+      "alt": "Sri Sri Radha Madhava",
+      "label": "Sri Sri Radha Madhava",
+      "tone": "altar"
+    },
+    "visit.hall": {
+      "type": "image",
+      "src": "",
+      "alt": "Temple hall",
+      "label": "Temple hall",
+      "tone": "marble"
+    },
+    "hero.frame.janmashtami": {
+      "type": "video",
+      "src": "",
+      "poster": "",
+      "alt": "Janmashtami abhisheka",
+      "label": "Janmashtami",
+      "tone": "night",
+      "duration": "0:18"
+    },
+    "hero.frame.ratha": {
+      "type": "video",
+      "src": "",
+      "poster": "",
+      "alt": "Ratha Yatra through Chandigarh",
+      "label": "Ratha Yatra",
+      "tone": "saffron",
+      "duration": "0:22"
+    },
+    "hero.frame.gaura": {
+      "type": "video",
+      "src": "",
+      "poster": "",
+      "alt": "Gaura Purnima kirtan",
+      "label": "Gaura Purnima",
+      "tone": "gold",
+      "duration": "0:15"
+    },
+    "hero.frame.kartika": {
+      "type": "video",
+      "src": "",
+      "poster": "",
+      "alt": "Kartika lamp offering",
+      "label": "Kartika Deepadaan",
+      "tone": "altar",
+      "duration": "0:20"
+    },
+    "hero.frame.govardhana": {
+      "type": "video",
+      "src": "",
+      "poster": "",
+      "alt": "Govardhana Puja annakut",
+      "label": "Govardhana Puja",
+      "tone": "rose",
+      "duration": "0:16"
+    },
+    "hero.frame.harinama": {
+      "type": "video",
+      "src": "",
+      "poster": "",
+      "alt": "Harinama sankirtana",
+      "label": "Harinama",
+      "tone": "dusk",
+      "duration": "0:25"
+    },
+    "hero.frame.darshan": {
+      "type": "video",
+      "src": "",
+      "poster": "",
+      "alt": "Sri Sri Radha Madhava darshan",
+      "label": "Darshan",
+      "tone": "altar",
+      "duration": "0:12"
+    },
+    "home.hero.bg": {
+      "type": "video",
+      "src": "",
+      "poster": "",
+      "alt": "Hare Krishna Dham lit up for a festival night",
+      "label": "Temple at night",
+      "tone": "night"
+    },
+    "page.about": {
+      "type": "image",
+      "src": "",
+      "alt": "Hare Krishna Dham temple hall",
+      "label": "Hare Krishna Dham temple hall",
+      "tone": "dusk"
+    },
+    "page.prabhupada": {
+      "type": "image",
+      "src": "",
+      "alt": "Srila Prabhupada",
+      "label": "Srila Prabhupada",
+      "tone": "marble"
+    },
+    "page.visit": {
+      "type": "image",
+      "src": "",
+      "alt": "Temple entrance on Dakshin Marg",
+      "label": "Temple entrance on Dakshin Marg",
+      "tone": "dusk"
+    },
+    "page.live": {
+      "type": "image",
+      "src": "",
+      "alt": "Aarti before the altar",
+      "label": "Aarti before the altar",
+      "tone": "altar"
+    },
+    "page.calendar": {
+      "type": "image",
+      "src": "",
+      "alt": "Festival decoration",
+      "label": "Festival decoration",
+      "tone": "night"
+    },
+    "page.ekadashi": {
+      "type": "image",
+      "src": "",
+      "alt": "Tulasi garden",
+      "label": "Tulasi garden",
+      "tone": "garden"
+    },
+    "page.festivals": {
+      "type": "image",
+      "src": "",
+      "alt": "Ratha Yatra crowd",
+      "label": "Ratha Yatra crowd",
+      "tone": "saffron"
+    },
+    "page.programs": {
+      "type": "image",
+      "src": "",
+      "alt": "Kirtan in the temple hall",
+      "label": "Kirtan in the temple hall",
+      "tone": "rose"
+    },
+    "page.donate": {
+      "type": "image",
+      "src": "",
+      "alt": "Lamps offered before the altar",
+      "label": "Lamps offered before the altar",
+      "tone": "night"
+    },
+    "page.japa": {
+      "type": "image",
+      "src": "",
+      "alt": "Devotee chanting japa",
+      "label": "Devotee chanting japa",
+      "tone": "gold"
+    },
+    "page.blog": {
+      "type": "image",
+      "src": "",
+      "alt": "Temple library",
+      "label": "Temple library",
+      "tone": "marble"
+    },
+    "page.contact": {
+      "type": "image",
+      "src": "",
+      "alt": "Temple reception",
+      "label": "Temple reception",
+      "tone": "dusk"
+    },
+    "program.food-for-life.2": {
+      "type": "image",
+      "src": "",
+      "alt": "Food For Life photo 2",
+      "label": "Food For Life · 2",
+      "tone": "gold"
+    },
+    "program.food-for-life.3": {
+      "type": "image",
+      "src": "",
+      "alt": "Food For Life photo 3",
+      "label": "Food For Life · 3",
+      "tone": "dusk"
+    },
+    "program.youth.2": {
+      "type": "image",
+      "src": "",
+      "alt": "Youth photo 2",
+      "label": "Youth · 2",
+      "tone": "dusk"
+    },
+    "program.youth.3": {
+      "type": "image",
+      "src": "",
+      "alt": "Youth photo 3",
+      "label": "Youth · 3",
+      "tone": "garden"
+    },
+    "program.bhakti-yoga.2": {
+      "type": "image",
+      "src": "",
+      "alt": "Bhakti Yoga photo 2",
+      "label": "Bhakti Yoga · 2",
+      "tone": "garden"
+    },
+    "program.bhakti-yoga.3": {
+      "type": "image",
+      "src": "",
+      "alt": "Bhakti Yoga photo 3",
+      "label": "Bhakti Yoga · 3",
+      "tone": "marble"
+    },
+    "program.kids.2": {
+      "type": "image",
+      "src": "",
+      "alt": "Kids photo 2",
+      "label": "Kids · 2",
+      "tone": "marble"
+    },
+    "program.kids.3": {
+      "type": "image",
+      "src": "",
+      "alt": "Kids photo 3",
+      "label": "Kids · 3",
+      "tone": "saffron"
+    },
+    "program.kirtan-at-home.2": {
+      "type": "image",
+      "src": "",
+      "alt": "Kirtan At Home photo 2",
+      "label": "Kirtan At Home · 2",
+      "tone": "saffron"
+    },
+    "program.kirtan-at-home.3": {
+      "type": "image",
+      "src": "",
+      "alt": "Kirtan At Home photo 3",
+      "label": "Kirtan At Home · 3",
+      "tone": "rose"
+    },
+    "program.counselling.2": {
+      "type": "image",
+      "src": "",
+      "alt": "Counselling photo 2",
+      "label": "Counselling · 2",
+      "tone": "rose"
+    },
+    "program.counselling.3": {
+      "type": "image",
+      "src": "",
+      "alt": "Counselling photo 3",
+      "label": "Counselling · 3",
+      "tone": "gold"
+    },
+    "program.seminars.2": {
+      "type": "image",
+      "src": "",
+      "alt": "Seminars photo 2",
+      "label": "Seminars · 2",
+      "tone": "gold"
+    },
+    "program.seminars.3": {
+      "type": "image",
+      "src": "",
+      "alt": "Seminars photo 3",
+      "label": "Seminars · 3",
+      "tone": "dusk"
+    },
+    "program.book-distribution.2": {
+      "type": "image",
+      "src": "",
+      "alt": "Book Distribution photo 2",
+      "label": "Book Distribution · 2",
+      "tone": "dusk"
+    },
+    "program.book-distribution.3": {
+      "type": "image",
+      "src": "",
+      "alt": "Book Distribution photo 3",
+      "label": "Book Distribution · 3",
+      "tone": "garden"
+    },
+    "home.sunday": {
+      "type": "image",
+      "src": "",
+      "alt": "Devotees taking prasadam at the Sunday Love Feast",
+      "label": "Sunday Love Feast",
+      "tone": "saffron"
+    },
+    "home.sunday.kirtan": {
+      "type": "video",
+      "src": "",
+      "poster": "",
+      "alt": "Sunday kirtan in the temple hall",
+      "label": "Sunday kirtan",
+      "tone": "rose",
+      "duration": "0:30"
+    }
+  },
+  "gallery": [
+    {
+      "type": "image",
+      "src": "",
+      "alt": "Mangala Aarti",
+      "label": "Mangala Aarti",
+      "tone": "night",
+      "span": "tall"
+    },
+    {
+      "type": "video",
+      "src": "",
+      "alt": "Harinama sankirtana in the city",
+      "label": "Harinama sankirtana",
+      "tone": "saffron",
+      "duration": "0:38",
+      "span": "wide"
+    },
+    {
+      "type": "image",
+      "src": "",
+      "alt": "Flower decoration",
+      "label": "Phool bangla",
+      "tone": "rose"
+    },
+    {
+      "type": "image",
+      "src": "",
+      "alt": "Tulasi puja",
+      "label": "Tulasi puja",
+      "tone": "garden"
+    },
+    {
+      "type": "video",
+      "src": "",
+      "alt": "Janmashtami abhisheka",
+      "label": "Janmashtami abhisheka",
+      "tone": "gold",
+      "duration": "1:05",
+      "span": "tall"
+    },
+    {
+      "type": "image",
+      "src": "",
+      "alt": "Children's drama",
+      "label": "Kids' drama",
+      "tone": "dusk"
+    },
+    {
+      "type": "image",
+      "src": "",
+      "alt": "Ratha Yatra",
+      "label": "Ratha Yatra",
+      "tone": "saffron",
+      "span": "wide"
+    },
+    {
+      "type": "image",
+      "src": "",
+      "alt": "Prasadam",
+      "label": "Prasadam",
+      "tone": "marble"
+    }
+  ]
+}

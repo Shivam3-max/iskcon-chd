@@ -1,0 +1,175 @@
+[
+  {
+    "slug": "food-for-life",
+    "title": "Food for Life",
+    "tagline": "No one within reach of the temple should go hungry.",
+    "when": "Daily, from the temple kitchen",
+    "figure": "prasadam",
+    "intro": "Freshly cooked vegetarian meals, offered to Krishna first and then served to whoever needs them.",
+    "body": [
+      "ISKCON Food for Life began with one sentence from Srila Prabhupada in Mayapur in 1974: no one within ten miles of a temple should go hungry. In Chandigarh the cooks start before sunrise, so that khichdi, sabji and a sweet are ready by mid-morning.",
+      "The meals are cooked in the same kitchen as the Deities' offerings and are offered before they leave the temple. That is what makes it prasadam, food that nourishes the body and also the soul."
+    ],
+    "points": [
+      "Hospital attendants and families",
+      "School children and anganwadis",
+      "Labour colonies and construction sites",
+      "Relief during floods and cold waves"
+    ],
+    "cta": {
+      "label": "Sponsor meals",
+      "href": "/donate/annadaan-food-for-life"
+    }
+  },
+  {
+    "slug": "youth",
+    "title": "Youth Forum",
+    "tagline": "Bhagavad-gita for the questions students actually ask.",
+    "when": "Saturdays & Sundays · college outreach weekdays",
+    "figure": "preacher",
+    "intro": "Discussions, kirtan, retreats and service for students and young professionals of the tricity.",
+    "body": [
+      "Exams, careers, relationships, anxiety and purpose. The Gita was spoken to a young man in exactly that crisis. Our youth sessions take one idea at a time and test it against real life.",
+      "Alongside the classes there are weekend kirtans, mentoring, yatras to Vrindavan and Mayapur, and chances to serve at festivals so the philosophy becomes practice."
+    ],
+    "points": [
+      "Weekly Gita discussion circles",
+      "Personal mentorship",
+      "Vrindavan & Mayapur yatras",
+      "Festival service teams"
+    ],
+    "cta": {
+      "label": "Join the next session",
+      "href": "/contact?topic=youth"
+    }
+  },
+  {
+    "slug": "bhakti-yoga",
+    "title": "Bhakti Yoga Classes",
+    "tagline": "A gradual, practical path from curiosity to devotion.",
+    "when": "Sunday Love Feast · courses through the year",
+    "figure": "kirtan",
+    "intro": "Structured courses on the Bhagavad-gita and Srimad-Bhagavatam, plus the Sunday programme of kirtan, class and feast.",
+    "body": [
+      "Every Sunday evening the temple holds a programme of kirtan, a talk on the Gita, an aarti and a full prasadam feast, open to everyone. It is the easiest way to begin.",
+      "For those who want more depth there are multi-week courses, from a first introduction to the Gita through to Bhakti Shastri study, taught by senior devotees."
+    ],
+    "points": [
+      "Sunday Love Feast, open to all",
+      "Discover Gita: 6-week introduction",
+      "Mantra meditation workshops",
+      "Bhakti Shastri study groups"
+    ],
+    "cta": {
+      "label": "Ask about the next course",
+      "href": "/contact?topic=courses"
+    }
+  },
+  {
+    "slug": "kids",
+    "title": "Kids & Summer Camp",
+    "tagline": "Stories of Krishna, told the way children remember.",
+    "when": "Sunday school · summer camp in June",
+    "figure": "children",
+    "intro": "Krishna stories, shloka recitation, drama, drawing and cooking for children aged 5–14.",
+    "body": [
+      "Children learn values most easily through stories, songs and things they make with their own hands. The Sunday school uses the pastimes of Krishna and the Ramayana to teach honesty, gratitude and care for others.",
+      "The summer camp runs for two weeks during the June holidays, ending with a drama the children perform for their families on the temple stage."
+    ],
+    "points": [
+      "Shloka and Gita recitation",
+      "Drama and festival performances",
+      "Art, craft and cooking",
+      "Value education through pastimes"
+    ],
+    "cta": {
+      "label": "Register your child",
+      "href": "/contact?topic=kids"
+    }
+  },
+  {
+    "slug": "kirtan-at-home",
+    "title": "Kirtan at Your Home",
+    "tagline": "Bring the temple's harinama into your living room.",
+    "when": "On request · book on WhatsApp",
+    "figure": "kartal",
+    "intro": "Devotees come with mridanga and kartals for griha-pravesh, birthdays, anniversaries and remembrance.",
+    "body": [
+      "A home where the holy name is sung becomes a temple for that evening. Our kirtan team comes with instruments, leads an hour of kirtan, gives a short talk and helps with an offering of prasadam.",
+      "Book through WhatsApp with the date, area and occasion and the team will get back to you."
+    ],
+    "points": [
+      "Griha-pravesh and new beginnings",
+      "Birthdays and anniversaries",
+      "Remembrance of departed family",
+      "Corporate and society events"
+    ],
+    "cta": {
+      "label": "Book on WhatsApp",
+      "href": "https://wa.me/919417086796"
+    }
+  },
+  {
+    "slug": "counselling",
+    "title": "Personal Counselling",
+    "tagline": "A quiet conversation with someone who has walked the path.",
+    "when": "By appointment",
+    "figure": "preacher",
+    "intro": "One-to-one guidance on life, relationships, careers and spiritual practice, rooted in the Gita.",
+    "body": [
+      "Sometimes what helps most is talking it through with someone experienced who will listen. Senior devotees meet people individually, in confidence, by appointment."
+    ],
+    "points": [
+      "Career and study decisions",
+      "Family and relationships",
+      "Starting a spiritual practice",
+      "Grief and difficult times"
+    ],
+    "cta": {
+      "label": "Request on WhatsApp",
+      "href": "https://wa.me/919464662288"
+    }
+  },
+  {
+    "slug": "seminars",
+    "title": "Seminars for Schools & Workplaces",
+    "tagline": "Timeless Vedic wisdom, made practical for today.",
+    "when": "On invitation",
+    "figure": "books",
+    "intro": "Interactive talks on stress, focus, leadership and values for schools, colleges and offices.",
+    "body": [
+      "Our speakers take sessions on mind management, values-based leadership, and stress and anxiety for schools, universities and corporate teams across the tricity."
+    ],
+    "points": [
+      "Mind management and focus",
+      "Values-based leadership",
+      "Stress, anxiety and resilience",
+      "Teacher and parent workshops"
+    ],
+    "cta": {
+      "label": "Invite a speaker",
+      "href": "/contact?topic=seminar"
+    }
+  },
+  {
+    "slug": "book-distribution",
+    "title": "Book Distribution",
+    "tagline": "Srila Prabhupada's books, from hand to hand.",
+    "when": "Weekends, and the December marathon",
+    "figure": "books",
+    "intro": "Devotees offer the Bhagavad-gita and other books on Krishna consciousness across the city.",
+    "body": [
+      "Srila Prabhupada called the books the basis of the movement. Every weekend devotees offer them at markets, campuses and railway stations, and in December the whole congregation joins the Gita marathon."
+    ],
+    "points": [
+      "Bhagavad-gita As It Is",
+      "Srimad-Bhagavatam sets",
+      "Books in Hindi and Punjabi",
+      "Gita Daan sponsorship"
+    ],
+    "cta": {
+      "label": "Sponsor a Gita",
+      "href": "/donate/gita-daan-2026"
+    }
+  }
+]

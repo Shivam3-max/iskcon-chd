@@ -1,0 +1,148 @@
+[
+  {
+    "slug": "kartika-deepadaan-2026",
+    "title": "Kartika Deepadaan",
+    "kicker": "Damodara month · 26 Oct – 24 Nov",
+    "summary": "Sponsor ghee lamps offered to Lord Damodara every evening of the holiest month of the year.",
+    "story": "In the month of Kartika, every lamp offered to Lord Damodara is said to be remembered for lifetimes. Each evening the temple hall fills with families singing the Damodarashtakam while children wave small lamps before the Deity. Your sponsorship provides the ghee, cotton wicks and clay diyas for the whole congregation, and the lamps offered in the name of your family on the day you choose.",
+    "goal": 500000,
+    "raised": 318400,
+    "donors": 412,
+    "start": "2026-10-01",
+    "end": "2026-11-24",
+    "status": "live",
+    "featured": true,
+    "illustration": "diya",
+    "tiers": [
+      {
+        "amount": 501,
+        "label": "Lamps for one evening"
+      },
+      {
+        "amount": 1100,
+        "label": "Lamps for a family, all month"
+      },
+      {
+        "amount": 5100,
+        "label": "One evening's aarti for the hall"
+      },
+      {
+        "amount": 11000,
+        "label": "Damodara Seva Patron"
+      }
+    ],
+    "updates": [
+      {
+        "date": "2026-10-05",
+        "text": "2,000 clay diyas arrived from local potters."
+      },
+      {
+        "date": "2026-10-01",
+        "text": "Campaign opened. Thank you to the first 40 families."
+      }
+    ]
+  },
+  {
+    "slug": "annadaan-food-for-life",
+    "title": "Annadaan · Food for Life",
+    "kicker": "Ongoing · Chandigarh tricity",
+    "summary": "Hot sanctified meals for school children, hospital attendants and labour colonies.",
+    "story": "Srila Prabhupada once saw children fighting dogs over scraps of food near the temple in Mayapur and said no one within ten miles of a temple should go hungry. Food for Life Chandigarh cooks khichdi, sabji and halwa in the temple kitchen every morning and serves it where it is needed most: outside hospitals, at construction sites and in school courtyards.",
+    "goal": 1200000,
+    "raised": 742000,
+    "donors": 1268,
+    "start": "2026-04-01",
+    "end": "2027-03-31",
+    "status": "live",
+    "featured": false,
+    "illustration": "prasadam",
+    "tiers": [
+      {
+        "amount": 350,
+        "label": "Feed 10 people"
+      },
+      {
+        "amount": 1750,
+        "label": "Feed 50 people"
+      },
+      {
+        "amount": 3500,
+        "label": "Feed 100 people"
+      },
+      {
+        "amount": 35000,
+        "label": "Feed 1,000 people"
+      }
+    ],
+    "updates": [
+      {
+        "date": "2026-09-30",
+        "text": "A second daily serving point has been added."
+      }
+    ]
+  },
+  {
+    "slug": "new-temple-kitchen",
+    "title": "A New Temple Kitchen",
+    "kicker": "Building fund · Phase 1",
+    "summary": "A clean, larger kitchen so the Deities' bhoga and Food for Life can grow together.",
+    "story": "The temple kitchen was built for a small congregation in the 1980s. Today it cooks for the Deities six times a day, for the Sunday feast and for Food for Life. Phase 1 replaces the roof, adds stainless-steel cooking ranges, a cold room and a proper wash area, so the cooks can serve with the cleanliness the Lord deserves.",
+    "goal": 2500000,
+    "raised": 640000,
+    "donors": 188,
+    "start": "2026-08-15",
+    "end": "2027-01-31",
+    "status": "live",
+    "featured": false,
+    "illustration": "temple",
+    "tiers": [
+      {
+        "amount": 2100,
+        "label": "One square foot"
+      },
+      {
+        "amount": 11000,
+        "label": "A steel cooking range"
+      },
+      {
+        "amount": 51000,
+        "label": "Kitchen pillar patron"
+      },
+      {
+        "amount": 108000,
+        "label": "Founder's plaque"
+      }
+    ],
+    "updates": []
+  },
+  {
+    "slug": "gita-daan-2026",
+    "title": "Gita Daan",
+    "kicker": "Gita Jayanti · December",
+    "summary": "Place a Bhagavad-gita As It Is in a hostel, library, jail or hospital waiting room.",
+    "story": "Every December, for the anniversary of the day the Gita was spoken, our book distributors take the Bhagavad-gita into colleges, libraries and prisons. One book can be read by many people, so a sponsored Gita keeps doing its work for years.",
+    "goal": 300000,
+    "raised": 92500,
+    "donors": 141,
+    "start": "2026-10-01",
+    "end": "2026-12-31",
+    "status": "live",
+    "featured": false,
+    "illustration": "books",
+    "tiers": [
+      {
+        "amount": 251,
+        "label": "One Gita"
+      },
+      {
+        "amount": 2510,
+        "label": "Ten Gitas"
+      },
+      {
+        "amount": 25100,
+        "label": "A library set"
+      }
+    ],
+    "updates": []
+  }
+]

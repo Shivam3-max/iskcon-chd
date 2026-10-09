@@ -1,0 +1,42 @@
+{
+  "name": "ISKCON Chandigarh",
+  "temple": "Hare Krishna Dham",
+  "deities": "Sri Sri Radha Madhava",
+  "url": "https://iskconchandigarh.com",
+  "address": [
+    "Hare Krishna Dham, Dakshin Marg",
+    "Sector 36-B, Chandigarh 160036"
+  ],
+  "phone": "+91 172 260 1590",
+  "phoneHref": "tel:+911722601590",
+  "email": "iskconchandigarh@gmail.com",
+  "whatsapp": {
+    "counselling": {
+      "label": "Personal counselling",
+      "number": "94646 62288",
+      "href": "https://wa.me/919464662288"
+    },
+    "kirtan": {
+      "label": "Kirtan at home",
+      "number": "94170 86796",
+      "href": "https://wa.me/919417086796"
+    }
+  },
+  "social": {
+    "youtube": "https://www.youtube.com/@iskconchd",
+    "instagram": "https://www.instagram.com/iskconchd",
+    "facebook": "https://www.facebook.com/iskconchd",
+    "x": "https://x.com/iskconchd"
+  },
+  "maps": "https://www.google.com/maps/search/?api=1&query=ISKCON+Temple+Sector+36B+Chandigarh",
+  "mapsEmbed": "https://www.google.com/maps?q=ISKCON+Temple+Sector+36+B+Chandigarh&output=embed",
+  "since": 1978,
+  "seoTitle": "ISKCON Chandigarh · Hare Krishna Dham, Sector 36-B",
+  "seoDescription": "Sri Sri Radha Madhava Mandir, Hare Krishna Dham, Sector 36-B, Chandigarh. Darshan and aarti timings, the Vaishnava calendar for Chandigarh, festivals, Food for Life and ways to serve.",
+  "donateNote": "Donations to ISKCON are eligible for 80G tax exemption.",
+  "announcement": {
+    "enabled": false,
+    "text": "",
+    "href": ""
+  }
+}

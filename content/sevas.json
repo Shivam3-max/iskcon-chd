@@ -1,0 +1,74 @@
+[
+  {
+    "slug": "raj-bhoga",
+    "title": "Raj Bhoga Seva",
+    "detail": "Sponsor the midday feast offered to Sri Sri Radha Madhava on a date of your choice.",
+    "amount": 5100,
+    "unit": "per day",
+    "illustration": "prasadam"
+  },
+  {
+    "slug": "sunday-feast",
+    "title": "Sunday Feast Seva",
+    "detail": "Sponsor the prasadam feast served to everyone at the Sunday Love Feast.",
+    "amount": 11000,
+    "unit": "per Sunday",
+    "illustration": "prasadam"
+  },
+  {
+    "slug": "shringar",
+    "title": "Shringar Seva",
+    "detail": "Flowers and garlands for the morning dressing of the Deities.",
+    "amount": 2100,
+    "unit": "per day",
+    "illustration": "lotus"
+  },
+  {
+    "slug": "go-seva",
+    "title": "Go Seva",
+    "detail": "Fodder and care for the cows that give milk for the Lord's offerings.",
+    "amount": 1100,
+    "unit": "per month",
+    "illustration": "cow"
+  },
+  {
+    "slug": "tulasi",
+    "title": "Tulasi Seva",
+    "detail": "Care of the Tulasi garden and the daily Tulasi puja.",
+    "amount": 501,
+    "unit": "per month",
+    "illustration": "tulasi"
+  },
+  {
+    "slug": "sadhu-bhojan",
+    "title": "Sadhu Bhojan",
+    "detail": "Feed the monks and full-time devotees who serve the temple.",
+    "amount": 3100,
+    "unit": "per meal",
+    "illustration": "prasadam"
+  },
+  {
+    "slug": "nitya-seva",
+    "title": "Nitya Seva",
+    "detail": "A monthly pledge that keeps the daily worship running all year.",
+    "amount": 1008,
+    "unit": "per month",
+    "illustration": "conch"
+  },
+  {
+    "slug": "birthday-puja",
+    "title": "Birthday & Anniversary Puja",
+    "detail": "An archana in your name with prasadam sent home.",
+    "amount": 1501,
+    "unit": "per puja",
+    "illustration": "diya"
+  },
+  {
+    "slug": "general",
+    "title": "General Donation",
+    "detail": "Let the temple use your gift where it is most needed.",
+    "amount": 0,
+    "unit": "any amount",
+    "illustration": "kalash"
+  }
+]

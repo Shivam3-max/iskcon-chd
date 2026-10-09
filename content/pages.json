@@ -1,0 +1,74 @@
+{
+  "about": {
+    "eyebrow": "About the temple",
+    "title": "Hare Krishna Dham, *Sector 36-B*",
+    "lede": "ISKCON Chandigarh has served the city since 1978. It is a place to see the Lord, sing His names, study the Gita and share prasadam, open to everyone whatever their background.",
+    "icon": "temple"
+  },
+  "prabhupada": {
+    "eyebrow": "Founder-Acharya of ISKCON",
+    "title": "His Divine Grace A.C. Bhaktivedanta *Swami Prabhupada*",
+    "lede": "1896–1977. He took the teachings of Sri Chaitanya Mahaprabhu around the world, and every ISKCON temple, including ours, exists because of him.",
+    "icon": "books"
+  },
+  "visit": {
+    "eyebrow": "Plan your visit",
+    "title": "Darshan & *aarti timings*",
+    "lede": "The temple hall is open through the day. The altar opens for darshan at these times, which follow the Deities' daily routine.",
+    "icon": "chamara"
+  },
+  "live": {
+    "eyebrow": "Live darshan",
+    "title": "Join the aarti *from anywhere*",
+    "lede": "The aartis are streamed on our YouTube channel. Set a reminder for the next one, or watch past kirtans and classes.",
+    "icon": "diya"
+  },
+  "calendar": {
+    "eyebrow": "Vaishnava calendar · Chandigarh",
+    "title": "The calendar *of the Lord's days*",
+    "lede": "Ekadashi fasts with parana times, festivals, and the appearance and disappearance days of the acharyas. Everything is calculated for sunrise at the temple, following Gaudiya Vaishnava rules, and updates itself every year.",
+    "icon": "tulasi"
+  },
+  "ekadashi": {
+    "eyebrow": "Vaishnava calendar",
+    "title": "Ekadashi in Chandigarh",
+    "lede": "Twice a month, on the eleventh day of the moon, devotees fast from grains and beans and spend the day chanting and hearing about Krishna. Break the fast the next morning within the parana window shown.",
+    "icon": "tulasi"
+  },
+  "festivals": {
+    "eyebrow": "Festivals",
+    "title": "Every festival *is a story*",
+    "lede": "The Vaishnava year is a cycle of the Lord's pastimes and the days of His devotees. These are the ones the temple celebrates in a big way, and how you can take part.",
+    "icon": "ratha"
+  },
+  "programs": {
+    "eyebrow": "Programs & social impact",
+    "title": "Bhakti, *lived out* through the week",
+    "lede": "The temple's life doesn't stop at the altar. From the kitchen to classrooms to living rooms across the tricity, these are the ways we serve and the ways you can join in.",
+    "icon": "kirtan"
+  },
+  "donate": {
+    "eyebrow": "Donate",
+    "title": "Whatever you offer *with love*",
+    "lede": "“If one offers Me with love and devotion a leaf, a flower, fruit or water, I will accept it.” (Bhagavad-gita 9.26). Your gift supports the Deities' worship, the kitchen, and the people the temple feeds and teaches.",
+    "icon": "kalash"
+  },
+  "japa": {
+    "eyebrow": "Chant with us",
+    "title": "One round, *108 names*",
+    "lede": "Japa is the quiet, personal chanting of the maha-mantra on beads. Tap the mala, or press space, once for each mantra. Listen to each word as you say it.",
+    "icon": "kartal"
+  },
+  "blog": {
+    "eyebrow": "Journal",
+    "title": "From the *temple*",
+    "lede": "News, festival notes and simple guidance for practising bhakti at home.",
+    "icon": "books"
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "We'd love to *hear from you*",
+    "lede": "Whether it's a question about a visit, a program, volunteering or a seva, write to us and a devotee will get back to you.",
+    "icon": "preacher"
+  }
+}

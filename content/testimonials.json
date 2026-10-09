@@ -1,0 +1,5 @@
+[
+  { "name": "Sample visitor", "source": "Google review", "sample": true, "text": "Replace with a real review from the temple's Google Business profile. Reviews are managed from the admin." },
+  { "name": "Sample visitor", "source": "Google review", "sample": true, "text": "This card shows how a short visitor quote will look on the homepage: two to four lines, with the reviewer's first name." },
+  { "name": "Sample visitor", "source": "Google review", "sample": true, "text": "Use genuine reviews only. The admin can pick which ones appear here and in what order." }
+]

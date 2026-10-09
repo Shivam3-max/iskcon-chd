@@ -1,0 +1,20 @@
+# dependencies
+node_modules/
+
+# next.js builds
+.next/
+.next-build/
+out/
+next-env.d.ts
+*.tsbuildinfo
+
+# misc
+.DS_Store
+*.log
+.vercel
+
+# secrets & runtime data (never commit)
+.env*.local
+.env
+content/admin/
+storage/

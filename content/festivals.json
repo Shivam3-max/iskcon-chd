@@ -1,0 +1,179 @@
+[
+  {
+    "slug": "janmashtami",
+    "title": "Sri Krishna Janmashtami",
+    "sanskrit": "श्रीकृष्ण जन्माष्टमी",
+    "figure": "flute",
+    "lede": "The appearance of Lord Krishna at midnight in Mathura, five thousand years ago.",
+    "story": [
+      "King Kamsa had imprisoned his sister Devaki and her husband Vasudeva, having heard that their eighth child would end his life. At midnight on the eighth day of the dark fortnight, Krishna appeared in the prison cell in His four-armed form, then became an ordinary-looking baby.",
+      "The guards fell asleep and the chains fell away. Vasudeva carried the child through the storm across the Yamuna to Gokula, where He grew up as the son of Nanda and Yashoda."
+    ],
+    "atTemple": [
+      "Darshan from early morning until after midnight",
+      "Abhisheka of the Deities at midnight",
+      "Kirtan through the day and night",
+      "Jhulan, a special shringar and a feast of hundreds of preparations"
+    ],
+    "observe": "Devotees fast until midnight and break the fast with prasadam after the abhisheka."
+  },
+  {
+    "slug": "gaura-purnima",
+    "title": "Gaura Purnima",
+    "sanskrit": "गौर पूर्णिमा",
+    "figure": "gaura-nitai",
+    "lede": "The appearance of Sri Chaitanya Mahaprabhu, who taught the world to chant Hare Krishna.",
+    "story": [
+      "On the full-moon evening of Phalguna in 1486, during a lunar eclipse, while the whole of Navadvipa was chanting the holy names in the Ganga, Nimai was born to Jagannatha Mishra and Sachi-devi.",
+      "Gaudiya Vaishnavas understand Sri Chaitanya to be Krishna Himself in the mood of His devotee, come to give the sankirtana movement, the congregational chanting of the holy names, to everyone without distinction."
+    ],
+    "atTemple": [
+      "Abhisheka of Sri Sri Gaura-Nitai",
+      "Kirtan through the day",
+      "Feast after moonrise"
+    ],
+    "observe": "Fast until moonrise."
+  },
+  {
+    "slug": "ratha-yatra",
+    "title": "Ratha Yatra",
+    "sanskrit": "रथ यात्रा",
+    "figure": "ratha",
+    "lede": "Lord Jagannatha, Baladeva and Subhadra come out onto the streets on a giant chariot.",
+    "story": [
+      "Once a year the Lord of the Universe leaves the temple so that everyone, whoever they are, can see Him and pull His ropes. Sri Chaitanya Mahaprabhu danced before the carts at Puri with His associates, and Srila Prabhupada brought the festival to the streets of the world."
+    ],
+    "atTemple": [
+      "A procession through the sectors of Chandigarh",
+      "Kirtan groups and dancing before the chariot",
+      "Prasadam distribution all along the route"
+    ],
+    "observe": "Come and pull the ropes. It is said that one who sees the Lord on His chariot is not born again."
+  },
+  {
+    "slug": "radhashtami",
+    "title": "Sri Radhashtami",
+    "sanskrit": "श्री राधाष्टमी",
+    "figure": "lotus",
+    "lede": "The appearance of Srimati Radharani, the embodiment of Krishna's pleasure potency.",
+    "story": [
+      "Fifteen days after Janmashtami, Srimati Radharani appeared in Barsana as the daughter of King Vrishabhanu. Gaudiya Vaishnavas worship Her as the supreme devotee, the one through whose mercy devotion to Krishna is given."
+    ],
+    "atTemple": [
+      "Abhisheka at noon",
+      "Flower decoration of the altar",
+      "Bhajans glorifying Srimati Radharani"
+    ],
+    "observe": "Fast until noon."
+  },
+  {
+    "slug": "kartika-damodara",
+    "title": "Kartika · Damodara Month",
+    "sanskrit": "दामोदर मास",
+    "figure": "diya",
+    "lede": "A month of lamps for the Lord who let Himself be bound by His mother's love.",
+    "story": [
+      "Baby Krishna broke a pot of yoghurt and ran from Mother Yashoda. When she tried to tie Him to a mortar, every rope was two fingers too short, until He saw how tired she was and let Himself be bound. That is why He is called Damodara, \"one whose waist is bound with a rope\"."
+    ],
+    "atTemple": [
+      "Damodarashtakam sung every evening",
+      "Everyone offers a ghee lamp",
+      "Lamps offered in homes too"
+    ],
+    "observe": "Offer a lamp daily and sing the Damodarashtakam."
+  },
+  {
+    "slug": "diwali-govardhana",
+    "title": "Deepotsava & Govardhana Puja",
+    "sanskrit": "गोवर्धन पूजा",
+    "figure": "cow",
+    "lede": "Lamps for Lord Rama's return, then a mountain of food for the hill Krishna lifted.",
+    "story": [
+      "When Indra flooded Vrindavan with seven days of rain, seven-year-old Krishna lifted Govardhana Hill on the little finger of His left hand and sheltered all the residents and their cows beneath it.",
+      "The day after Diwali we worship Govardhana, build a hill of sweets and offer it with the cows."
+    ],
+    "atTemple": [
+      "Annakut, a hill of offerings",
+      "Go Puja",
+      "Circumambulation of the Govardhana hill of sweets"
+    ],
+    "observe": "Offer grains and sweets, and honour the cows."
+  },
+  {
+    "slug": "gita-jayanti",
+    "title": "Gita Jayanti",
+    "sanskrit": "गीता जयंती",
+    "figure": "books",
+    "lede": "The day Krishna spoke the Bhagavad-gita to Arjuna at Kurukshetra.",
+    "story": [
+      "On Mokshada Ekadashi, between two armies, Arjuna put down his bow, and Krishna spoke the seven hundred verses that answer who we are, why we suffer and how to love."
+    ],
+    "atTemple": [
+      "Recitation of all eighteen chapters",
+      "The Gita marathon of book distribution",
+      "Gita quiz for children"
+    ],
+    "observe": "Read the Gita and give one to someone else."
+  },
+  {
+    "slug": "nrisimha-chaturdashi",
+    "title": "Sri Nrisimha Chaturdashi",
+    "sanskrit": "श्री नृसिंह चतुर्दशी",
+    "figure": "conch",
+    "lede": "The Lord appears as half-man, half-lion to protect His devotee Prahlada.",
+    "story": [
+      "Hiranyakashipu had a boon that no man or animal could kill him, by day or by night, indoors or out. At dusk, on a threshold, Lord Nrisimha emerged from a pillar and kept every condition of the boon, to protect the five-year-old Prahlada."
+    ],
+    "atTemple": [
+      "Abhisheka at dusk",
+      "Nrisimha prayers"
+    ],
+    "observe": "Fast until dusk."
+  },
+  {
+    "slug": "rama-navami",
+    "title": "Sri Rama Navami",
+    "sanskrit": "श्री राम नवमी",
+    "figure": "conch",
+    "lede": "The appearance of Lord Ramachandra in Ayodhya.",
+    "story": [
+      "Lord Rama appeared as the son of King Dasharatha and showed by His own example the life of the perfect king, son and husband."
+    ],
+    "atTemple": [
+      "Ramayana katha",
+      "Abhisheka and feast"
+    ],
+    "observe": "Fast until sunset."
+  },
+  {
+    "slug": "vyasa-puja",
+    "title": "Srila Prabhupada's Vyasa Puja",
+    "figure": "books",
+    "lede": "The appearance day of the Founder-Acharya of ISKCON, the day after Janmashtami.",
+    "story": [
+      "Abhay Charan De was born in Calcutta on 1 September 1896, the day after Janmashtami. At sixty-nine he sailed to America with forty rupees and a trunk of books, and in eleven years he founded more than a hundred temples."
+    ],
+    "atTemple": [
+      "Offerings read by disciples and followers",
+      "Guru puja and pushpanjali",
+      "A grand feast"
+    ],
+    "observe": "Fast until noon."
+  },
+  {
+    "slug": "ekadashi",
+    "title": "Ekadashi",
+    "sanskrit": "एकादशी",
+    "figure": "tulasi",
+    "lede": "The eleventh day of each lunar fortnight, dear to Lord Hari.",
+    "story": [
+      "Twice a month devotees fast from grains and beans, chant more and hear about Krishna. The Padma Purana says Ekadashi is the mother of devotion and frees the mind from the pull of the senses.",
+      "The fast is broken the next morning within the parana window, which our calendar computes for Chandigarh's sunrise."
+    ],
+    "atTemple": [
+      "Extra rounds of japa",
+      "Ekadashi kirtan in the evening"
+    ],
+    "observe": "Avoid grains and beans; break the fast within the parana time."
+  }
+]
